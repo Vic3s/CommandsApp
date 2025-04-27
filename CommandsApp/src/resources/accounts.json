@@ -1,0 +1,10 @@
+[ {
+  "id" : 749063,
+  "name" : "Jimmy",
+  "password" : "$2a$10$/6m7xy44PKbp04sghsyGougPCqdwlGv4BvkMCUhq9dcQzPXX9Hwgy"
+}, {
+  "id" : 861676,
+  "name" : "Vasko",
+  "password" : "$2a$10$eVjb4GKEU6hvGl9g7itV9./gv9sPdjsaHIpi46brkPhoE1jTd66.i",
+  "age" : 45
+} ]
