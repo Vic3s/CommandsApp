@@ -5,7 +5,7 @@ import java.util.Scanner;
 class MainProgram{
     boolean exit = false;
 
-    public String commandsList(){
+    public String commandList(){
         String listOfCommands = "simple file-manipulate - (mode), simple Search";
         return  listOfCommands;
     }
